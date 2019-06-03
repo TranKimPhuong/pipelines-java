@@ -1,3 +1,4 @@
+[![Build Status](https://demo-kp.visualstudio.com/Pipeline_buildAndRelease/_apis/build/status/Pipeline_buildAndRelease-Maven-CI?branchName=master)](https://demo-kp.visualstudio.com/Pipeline_buildAndRelease/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
